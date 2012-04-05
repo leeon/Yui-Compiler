@@ -1,0 +1,20 @@
+int a;
+int b;
+int c;
+int main()
+{
+     int t;
+	if(a >4)
+	{
+		a=b+c;
+		for(a = 1; a>4.1;a=a+1)
+		{
+			b= 2;
+		}
+	}
+	else
+	{
+		a=(b+c)*(b-c);
+	}
+	return 0.5;
+}
